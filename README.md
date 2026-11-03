@@ -10,7 +10,7 @@ Find potentially unclaimed Roblox groups by checking group IDs. RoFinder sends q
 You need Python 3.10 or newer and Git.
 
 ```powershell
-git clone https://github.com/RXNationGMG/RoFinder.git
+git clone https://github.com/00-ms/RoFinder.git
 ```
 
 ```powershell
